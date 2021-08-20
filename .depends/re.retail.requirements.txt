@@ -4,5 +4,5 @@ azureml-core==1.33.0
 commondatamodel-objectmodel
 recommenders
 pydantic==1.7.4
-pyspark==2.4.5
+pyspark==3.0.3
 python-dotenv==0.19.0
